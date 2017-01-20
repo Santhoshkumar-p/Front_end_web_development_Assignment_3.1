@@ -1,0 +1,23 @@
+.three
+	   {
+		font-family: calibri;
+		border: 1px solid black;
+		width: 30%;
+	    }
+	    .headthree{
+	    	border: 1px solid black; 
+			font-family: Calibri; 
+			font-size: 20px;
+	    }
+	.head3
+	    {
+			border: 1px solid black; 
+			font-family: Calibri; 
+			font-size: 20px;
+			text-align: left;
+			font-style: small;
+		 }
+	.cell3
+	     {
+				border: 1px solid black; 
+		 }
